@@ -23,3 +23,4 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: anuragbagri112/airdrop_app:${{ github.sha }}
+            anuragbagri112/todo-app-backend:latest
