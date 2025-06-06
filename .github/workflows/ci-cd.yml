@@ -22,4 +22,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: airdrop_app
+          tags: anuragbagri112/airdrop_app:latest
